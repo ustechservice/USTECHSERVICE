@@ -13,6 +13,8 @@ $ cat /etc/profile
 > building things. breaking things. fixing things.
 ```
 
+![terminal](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=17&duration=2200&pause=700&color=3FB950&background=00000000&vCenter=true&width=600&height=30&lines=%24+whoami;IT+%C2%B7+security+%C2%B7+automation+%C2%B7+AI%2FML;USMC+veteran+%C2%B7+digital+forensics+instructor;%24+sudo+cat+%2Fetc%2Fmotd;own+the+pipeline.+rent+only+the+irreplaceable.;%24+cd+~%2Fawesome-free-vibe-coding+%26%26+git+log+--oneline)
+
 ---
 
 ### stack
