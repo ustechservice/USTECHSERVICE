@@ -54,7 +54,14 @@ $ cat /etc/profile
 
 ### stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USTECHSERVICE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Followers](https://img.shields.io/github/followers/ustechservice?style=for-the-badge&logo=github&color=00acb8&labelColor=1a1e24)
+![Stars](https://img.shields.io/github/stars/ustechservice?style=for-the-badge&logo=github&color=00acb8&labelColor=1a1e24)
+![Profile Views](https://komarev.com/ghpvc/?username=ustechservice&style=for-the-badge&color=00acb8)
+
+<!-- Self-hosted stats card: after deploying your github-readme-stats fork to Vercel,
+     swap YOUR-INSTANCE below and uncomment:
+![GitHub Stats](https://YOUR-INSTANCE.vercel.app/api?username=USTECHSERVICE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+-->
 
 ---
 
